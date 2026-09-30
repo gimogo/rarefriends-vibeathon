@@ -36,10 +36,11 @@ https://github.com/gimogo/kaldareth-healed-shadows
 
 ## Playable preview
 
-**https://gimogo.github.io/kaldareth-healed-shadows/playtest.html** — the full
+**https://kaldareth.netlify.app/playtest.html** — the full
 game, all thirty-two chapters, no wallet and no install: it mounts the real app
 with a preview-mode session, so balances and rivals are simulated while every
-choice, Litany check, fight and ending is the shipped one.
+choice, Litany check, fight and ending is the shipped one. (Mirrored at
+https://gimogo.github.io/kaldareth-healed-shadows/playtest.html.)
 
 The complete FriendSDK runtime (wallet connect, ownership gate, quota) runs
 from the repository: `npm install && npm run dev` → http://127.0.0.1:4173. It
@@ -75,7 +76,7 @@ final choices, no fight. Reading the story is the only key.
 
 ## Reading order for jurors
 
-1. Open the preview link above and play a run. When the road pauses, answer
+1. Open the preview link above (also https://kaldareth.netlify.app/) and play a run. When the road pauses, answer
    from memory — that IS the combat system for the story half.
 2. Miss nothing, then hold all eight echoes to the epilogue gate: the ninth
    door is the submission's showcase.
